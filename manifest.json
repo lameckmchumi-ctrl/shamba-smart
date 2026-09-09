@@ -1,0 +1,10 @@
+{
+  "name": "Shamba Smart",
+  "short_name": "Shamba Smart",
+  "start_url": "./dashboald.php",
+  "display": "standalone",
+  "background_color": "#eaf4ed",
+  "theme_color": "#0d5239",
+  "description": "Udhibiti wa umwagiliaji wa shamba kwa simu.",
+  "icons": []
+}
